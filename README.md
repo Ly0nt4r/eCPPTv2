@@ -10,4 +10,8 @@ Para empezar, instalaremos una maquina virtual (En mi caso Windows 7 32 bits).
 
 *Como no se trata de una guia sobre creación y configuración de la maquina virtual, recomiendo buscar información sobre ello si se tiene duda)*
 
+Tras esto procedemos a descargar un software vulnerable (en este caso SLMail 5.5) **Importante descargar la versión correcta - 5.5** 
+Y tambien descargaremos el Immunity debugger (Le añadiremos el archivo de python3 *Mona.py*)
+
+
 ![image](https://user-images.githubusercontent.com/87484792/194422554-d389c5c5-0004-4e12-80e0-e04f5bae1109.png)
