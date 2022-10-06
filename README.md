@@ -16,8 +16,10 @@ Y tambien descargaremos el Immunity debugger (Le añadiremos el archivo de pytho
 
 ![image](https://user-images.githubusercontent.com/87484792/194422554-d389c5c5-0004-4e12-80e0-e04f5bae1109.png)
 
-
 Con todo esto descargado, procedemos a empezar con los siguientes pasos.
+
+## Primeros Pasos
+
 De manera general, al iniciar como administrador ambos binarios, debería verse así.
 
 ![image](https://user-images.githubusercontent.com/87484792/194424124-31a41ab8-06f5-467c-bad2-da0fc8f99627.png)
