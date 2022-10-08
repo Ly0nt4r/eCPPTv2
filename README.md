@@ -23,3 +23,9 @@ Con todo esto descargado, procedemos a empezar con los siguientes pasos.
 De manera general, al iniciar como administrador ambos binarios, debería verse así.
 
 ![image](https://user-images.githubusercontent.com/87484792/194424124-31a41ab8-06f5-467c-bad2-da0fc8f99627.png)
+
+Lo siguiente que deberiamos hacer es "atar" el binario al debugger
+
+En este caso con *attach* lo hariamos.
+
+![image](https://user-images.githubusercontent.com/87484792/194720198-1388eba4-b29c-4eae-81cc-016444096a88.png)
