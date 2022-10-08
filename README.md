@@ -33,3 +33,7 @@ En este caso con *attach* lo hariamos.
 La idea sería buscar el binario SLMail, tal que así. Lo seleccionamos y aceptamos.
 
 ![image](https://user-images.githubusercontent.com/87484792/194720481-d9b95ac9-a61d-45e7-8c8e-7ae711ed2728.png)
+
+En este punto ya lo tendriamos disponible para empezar nuestro buffer oveflow.
+
+![image](https://user-images.githubusercontent.com/87484792/194720522-4eb91133-eaba-46b7-a6d2-c4b1c7cbebc2.png)
