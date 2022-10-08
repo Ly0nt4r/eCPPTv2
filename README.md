@@ -29,3 +29,7 @@ Lo siguiente que deberiamos hacer es "atar" el binario al debugger
 En este caso con *attach* lo hariamos.
 
 ![image](https://user-images.githubusercontent.com/87484792/194720198-1388eba4-b29c-4eae-81cc-016444096a88.png)
+
+La idea sería buscar el binario SLMail, tal que así. Lo seleccionamos y aceptamos.
+
+![image](https://user-images.githubusercontent.com/87484792/194720481-d9b95ac9-a61d-45e7-8c8e-7ae711ed2728.png)
