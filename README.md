@@ -36,4 +36,4 @@ La idea sería buscar el binario SLMail, tal que así. Lo seleccionamos y acepta
 
 En este punto ya lo tendriamos disponible para empezar nuestro buffer oveflow.
 
-![image](https://user-images.githubusercontent.com/87484792/194720522-4eb91133-eaba-46b7-a6d2-c4b1c7cbebc2.png)
+![image](https://user-images.githubusercontent.com/87484792/194720560-f5014b6c-1afe-4c7a-a6b0-02c555cefd0a.png)
