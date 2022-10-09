@@ -37,3 +37,6 @@ La idea sería buscar el binario SLMail, tal que así. Lo seleccionamos y acepta
 En este punto ya lo tendriamos disponible para empezar nuestro buffer oveflow.
 
 ![image](https://user-images.githubusercontent.com/87484792/194720560-f5014b6c-1afe-4c7a-a6b0-02c555cefd0a.png)
+
+# Explicación de Buffer Overflow ¿Como y Porqué?
+
