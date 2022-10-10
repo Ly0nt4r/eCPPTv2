@@ -2,6 +2,14 @@
 
 ## Consejos para pasar el eCPPTv2.
 
+
+## Pivoting
+
+### ProxyChains
+
+
+
+
 ## Buffer Overflow
 
 Para empezar, instalaremos una maquina virtual (En mi caso Windows 7 32 bits).
