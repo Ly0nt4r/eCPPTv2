@@ -1,5 +1,8 @@
 # eCPPTv2
 
+![1_Ra-KXCGe3Als-o2Q_IUm4g](https://user-images.githubusercontent.com/87484792/195909101-aa593b26-15ad-4b14-9728-20a9ff9fec7c.png)
+
+
 ## Consejos para pasar el eCPPTv2.
 
 Esta sección ira para todos aquellos que tengan pensado sacarse la certificación de eLearn Security "eCPPTv2". 
