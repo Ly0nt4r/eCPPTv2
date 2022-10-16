@@ -15,7 +15,9 @@ https://tryhackme.com/room/wreath
 
 https://www.youtube.com/watch?v=_7b_GQDfA5M&ab_channel=s4vitar
 
-[HTB Machine] Reddish
+[HTB Machine]
+
+- Reddish
 
 ### ProxyChains
 
