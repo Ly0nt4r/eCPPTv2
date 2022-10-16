@@ -9,7 +9,11 @@ Esta secci√≥n ira para todos aquellos que tengan pensado sacarse la certificaci√
 
 ## Pivoting
 
-Recomendaciones: https://tryhackme.com/room/wreath
+Recomendaciones: 
+
+https://tryhackme.com/room/wreath
+https://www.youtube.com/watch?v=_7b_GQDfA5M&ab_channel=s4vitar
+[HTB Machine] Reddish
 
 ### ProxyChains
 
