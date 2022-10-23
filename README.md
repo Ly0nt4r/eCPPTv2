@@ -15,6 +15,12 @@ https://tryhackme.com/room/wreath
 
 https://www.youtube.com/watch?v=_7b_GQDfA5M&ab_channel=s4vitar
 
+https://www.youtube.com/watch?v=L1jSoCcvRY4&ab_channel=S4viOnLive
+
+https://www.youtube.com/watch?v=E4eUdAd6tAM&ab_channel=S4viOnLive
+
+https://www.youtube.com/watch?v=sjUgh__Utvs&ab_channel=S4viOnLive
+
 [HTB Machine]
 
 - Reddish
