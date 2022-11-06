@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=E4eUdAd6tAM&ab_channel=S4viOnLive
 
 https://www.youtube.com/watch?v=sjUgh__Utvs&ab_channel=S4viOnLive
 
+https://www.youtube.com/watch?v=Q7UeWILja-g&ab_channel=S4viOnLive
+
 [HTB Machine]
 
 - Reddish
