@@ -279,7 +279,7 @@ La idea aquí, es rezar 2 padres nuestros para que tras ampliar considerablement
 
 Hay casos como el de Linux que explicaré donde sólo contamos con 7 bytes de espacio. En ese caso la idea consiste en aprovechar estos 7 bytes para a través de 5 bytes definir ciertas instrucciones de desplazamiento y salto entre registros, permitiéndonos insertar nuestro Shellcode en un nuevo registro donde contamos con el espacio suficiente.
 
-Pero para el caso, y de cara a la examinación... no habrá que preocuparse. Modificamos para ello el script de la siguiente forma:
+Pero para el caso, y de cara a la examinación... no habrá que preocuparse.Modificamos para ello el script de la siguiente forma:
 
 ```python
 #!/usr/bin/python
