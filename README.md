@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=Q7UeWILja-g&ab_channel=S4viOnLive
 
 [HTB Machine]
 
-- Reddish
+- Reddish [Machine Insane]
 
 [THM]
 
