@@ -5,7 +5,7 @@
 
 ## Consejos para pasar el eCPPTv2.
 
-Esta sección ira para todos aquellos que tengan pensado sacarse la certificación de eLearn Security "eCPPTv2". 
+Esta sección ira para todos aquellos que tengan pensado sacarse la certificación de eLearn Security "eCPPTv2"
 
 ## Pivoting
 
