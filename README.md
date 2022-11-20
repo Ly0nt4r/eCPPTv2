@@ -32,6 +32,10 @@ https://www.youtube.com/watch?v=Q7UeWILja-g&ab_channel=S4viOnLive
  - bufferoverflowprep  
  - gatekeeper 
  - brainpan
+ 
+ [Apuntes]
+ 
+ - Mapa de Red:  Obsidian
 
 ### ProxyChains
 
