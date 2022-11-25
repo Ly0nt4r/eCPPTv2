@@ -4,6 +4,7 @@
 
 ## Experiencia personal
 
+Acabo de terminar el examen, y creo que es buen momento para escribir mi experiencia personal, ahora que lo tengo todo fresco.
 
 ## Consejos para pasar el eCPPTv2.
 
