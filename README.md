@@ -10,6 +10,11 @@ Acabo de terminar el examen, y creo que es buen momento para escribir mi experie
 
 Esta sección ira para todos aquellos que tengan pensado sacarse la certificación de eLearn Security "eCPPTv2"
 
+## Primeros Pasos
+
+Este examen consiste en una prueba de penetración en una red de cliente simulada basada en el alcance del cliente dado y también para escribir un informe de prueba de penetración. Encontrará servidores web, subredes y también una DMZ y el requisito para aprobar el examen es obtener privilegios de root en el host de DMZ. Además, es obligatorio informar todas las demás vulnerabilidades
+
+
 ## Pivoting
 
 Recomendaciones: 
