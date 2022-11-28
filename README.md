@@ -4,7 +4,7 @@
 
 ## Experiencia personal
 
-Acabo de terminar el examen, y creo que es buen momento para escribir mi experiencia personal, ahora que lo tengo todo fresco.
+Acabo de terminar el examen, y creo que es buen momento para escribir mi experiencia personal, ahora que lo tengo todo fresco. Desde mi punto de vista, las (post)-explotaciones no fueron muy dificiles, de hecho hay varias alternativas en la mayoria de maquinas. Lo que está claro es que si o si, necesitais saber pivoting.
 
 ## Consejos para pasar el eCPPTv2.
 
