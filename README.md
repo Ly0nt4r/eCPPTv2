@@ -20,6 +20,13 @@ Vaya.. que vais a saltar a base de bien :)
 Bajo mi experiencia, las explotaciones no fueron nada dificiles. De hecho muchas las podreis sacar facilmente con una simple enumeración.
 Sin embargo con esto, os daré un consejo que os ayudará mucho. PROBAD, PROBAD y PROBAD diferentes Payloads hasta que encontreis el que os funcione. NO todos os van a funcionar, pero eso no quiere decir que esteis por el mal camino.
 
+Por mi parte, el 95% del examen fue de forma manual. No utilicé MetaSploit para el pivoting, ni linpeas-winpeas para enumerar. No seais tan tonto como yo.
+Es totalmente legal utilizar herramientas como Metasploit o sqlmap para estos examenes, usadlo. Os van a facilitar mucho la vida y lo vais a agradecer. 
+
+Por mi parte siempre he preferido el metodo manual, entender que hago en cada momento, pero creo que si sabeis hacerlo manualmente deberiais hacer uso de estas herramientas.
+
+
+
 
 ## Consejos para pasar el eCPPTv2.
 
