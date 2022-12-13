@@ -25,7 +25,13 @@ Es totalmente legal utilizar herramientas como Metasploit o sqlmap para estos ex
 
 Por mi parte siempre he preferido el metodo manual, entender que hago en cada momento, pero creo que si sabeis hacerlo manualmente deberiais hacer uso de estas herramientas.
 
+Es un secreto a voces que hay una parte de bufferoverflow. Tranquilidad con esto. Os dan un esquema practicamente hecho, solo teneis que sacar vuestro propio payload. Es una maquina simple, igualita que las que caian en el OSCP. No os asusteis, utilizad alguna guia de ejemplo o algún video de Youtube y listo. 
 
+Con respecto al tiempo, son 7 días de pentest y 7 días de reporte. Más que de sobra. 
+
+Mi examen duró alrededor de 4 días con el pentest y 1 día de reporte. Tengo que decir que el laboratorio tarda MUCHISIMO en levantarse, hay días que quería reiniciar la maquina y tardaba 2horas de reloj. Alucinante pero cierto.
+
+Con respecto al reporte, veo a mucha gente con miedo y con razón. Suelen ser algo estrictos con el reporte pero tranquilidad nuevamente. Si tu reporte es claro y directo, poniendo cada paso lo que has ido haciendo hasta llegar a la DMZ, estarás aprobado. No os comais la cabeza con que vuestro reporte llegue a "X" número de paginas. Mi reporte solo constaba de 36 paginas, y no me lo echaron para atras. Directo, claro y conciso. Así debe ser tu reporte.
 
 
 ## Consejos para pasar el eCPPTv2.
