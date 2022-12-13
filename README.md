@@ -10,12 +10,9 @@ En primer lugar, te dan la carta de presentación, donde viene todos los puntos 
 
 No puedo contar mucho del examen, sin embargo si que puedo decir que os prepareis bien el tema de pivoting. Es totalmente OBLIGATORIO que sepais hacer bien pivoting, tanto de:
 
-- Linux -> Windows
-- 
+- Linux -> Windows 
 - Windows -> Linux
-
 - Windows -> Windows
-- 
 - Linux -> Linux
 
 Vaya.. que vais a saltar a base de bien :)
