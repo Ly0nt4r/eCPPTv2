@@ -6,6 +6,8 @@
 
 Acabo de terminar el examen, y creo que es buen momento para escribir mi experiencia personal, ahora que lo tengo todo fresco. Desde mi punto de vista, las (post)-explotaciones no fueron muy dificiles, de hecho hay varias alternativas en la mayoria de maquinas. Lo que está claro es que si o si, necesitais saber pivoting.
 
+En primer lugar, te dan la carta de presentación, donde viene todos los puntos recogidos del examen (desde el alcanze hasta un diagrama de red). Ellos dejan claro que es necesario para llegar al OBJETIVO MINIMO, sin embargo, eso NO.. y repito.. NO es suficiente para aprobar. Para aprobar necesitaras hacer un pentest completo de todo aquello que encuentres por tu maravilloso recorrido por el examen *guiño guiño*
+
 ## Consejos para pasar el eCPPTv2.
 
 Esta sección ira para todos aquellos que tengan pensado sacarse la certificación de eLearn Security "eCPPTv2"
