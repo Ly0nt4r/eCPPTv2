@@ -17,6 +17,8 @@ No puedo contar mucho del examen, sin embargo si que puedo decir que os preparei
 
 Vaya.. que vais a saltar a base de bien :)
 
+Bajo mi experiencia, las explotaciones no fueron nada dificiles. De hecho muchas las podreis sacar facilmente con una simple enumeración.
+Sin embargo con esto, os daré un consejo que os ayudará mucho. PROBAD, PROBAD y PROBAD diferentes Payloads hasta que encontreis el que os funcione. NO todos os van a funcionar, pero eso no quiere decir que esteis por el mal camino.
 
 
 ## Consejos para pasar el eCPPTv2.
