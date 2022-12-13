@@ -8,6 +8,17 @@ Acabo de terminar el examen, y creo que es buen momento para escribir mi experie
 
 En primer lugar, te dan la carta de presentación, donde viene todos los puntos recogidos del examen (desde el alcanze hasta un diagrama de red). Ellos dejan claro que es necesario para llegar al OBJETIVO MINIMO, sin embargo, eso NO.. y repito.. NO es suficiente para aprobar. Para aprobar necesitaras hacer un pentest completo de todo aquello que encuentres por tu maravilloso recorrido por el examen *guiño guiño*
 
+No puedo contar mucho del examen, sin embargo si que puedo decir que os prepareis bien el tema de pivoting. Es totalmente OBLIGATORIO que sepais hacer bien pivoting, tanto de:
+
+Linux -> Windows
+Windows -> Linux
+Windows -> Windows
+Linux -> Linux
+
+Vaya.. que vais a saltar a base de bien :)
+
+
+
 ## Consejos para pasar el eCPPTv2.
 
 Esta sección ira para todos aquellos que tengan pensado sacarse la certificación de eLearn Security "eCPPTv2"
